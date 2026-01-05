@@ -2,7 +2,6 @@
   "name": "p1234",
   "type": "module",
   "version": "0.0.0",
-  "private": true,
   "description": "A simple example library built by tsdown",
   "exports": {
     ".": "./dist/index.mjs",
