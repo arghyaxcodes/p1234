@@ -3,6 +3,14 @@
   "type": "module",
   "version": "0.0.1",
   "description": "A simple example library built by tsdown",
+  "homepage": "https://github.com/arghyaxcodes/p1234#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arghyaxcodes/p1234.git"
+  },
+  "bugs": {
+    "url": "https://github.com/arghyaxcodes/p1234/issues"
+  },
   "exports": {
     ".": "./dist/index.mjs",
     "./package.json": "./package.json"
