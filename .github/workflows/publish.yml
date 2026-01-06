@@ -30,4 +30,4 @@ jobs:
           GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
 
       - name: Publish to npm
-        run: npm publish --provenance
+        run: npm publish --provenance --access public
