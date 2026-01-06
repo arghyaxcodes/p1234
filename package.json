@@ -1,7 +1,7 @@
 {
   "name": "p1234",
   "type": "module",
-  "version": "0.1.2",
+  "version": "0.1.0",
   "description": "A Size Limited Font Collection for Serverless Environment. Including 1899 Google Fonts!",
   "keywords": [
     "tiny",
