@@ -1,0 +1,17 @@
+node_modules/
+*.log
+.DS_Store
+.env
+*.tgz
+generated/
+src/
+builder/
+examples/
+coverage/
+.nyc_output/
+*.tsbuildinfo
+.vscode/
+.idea/
+*.md
+tsdown.config.ts
+.prettierrc

@@ -1,4 +1,7 @@
 node_modules
-dist
+fonts
 *.log
 .DS_Store
+.env
+*.tgz
+generated
